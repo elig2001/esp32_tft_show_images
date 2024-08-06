@@ -38,7 +38,7 @@ void setup()
   // the anti-aliasing effectiveness varies with screen viewing angle
   // g_tft.setRotation();
 
-  tft.fillScreen(TFT_BLACK);
+  tft.fillScreen(TFT_WHITE);
 
   ENABLE_SCREEN
   delay(2000);
